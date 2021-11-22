@@ -9,3 +9,14 @@
 
 # Undo-tree save-files
 *.~undo-tree
+
+\#*\#
+.cache
+elpa
+straight
+var
+.cider-repl-history
+.last-package-update-day
+.lsp-session-v1
+history
+custom.el
